@@ -1,0 +1,9 @@
+
+In file reserve_check_show.py we create a table reservation database called "reservation" that contains the reservation ID,
+ first name, last name, phone number, table number, and date and time of the reservation.
+ 
+  we use four functions: 
+  create_reservations_table(), 
+  make_reservation(),
+  check_reservation()
+  show_all_reservations()
